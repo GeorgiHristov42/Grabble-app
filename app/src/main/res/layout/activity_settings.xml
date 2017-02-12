@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_settings"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.grabble.grabble.SettingsActivity"
+    android:background="@drawable/gradient">
+
+
+    <TextView
+        android:text="@string/txtSettingsHeader"
+        android:layout_width="355dp"
+        android:layout_height="65dp"
+        android:id="@+id/textSettingsHeader"
+        style="@style/header_text"
+        android:layout_marginStart="16dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Switch
+        android:text="@string/switchAudio"
+        android:layout_width="345dp"
+        android:layout_height="31dp"
+        android:id="@+id/switchAudio"
+        android:layout_marginStart="16dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginLeft="16dp"
+        android:layout_marginEnd="16dp"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintTop_toBottomOf="@+id/textSettingsHeader"
+        style="@style/switch_text"
+        android:checked="true"
+        android:onClick="toggleAudio"/>
+
+    <Switch
+        android:text="@string/switchVib"
+        android:layout_width="347dp"
+        android:layout_height="29dp"
+        android:id="@+id/switchVibration"
+        android:layout_marginStart="16dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginLeft="16dp"
+        android:layout_marginEnd="16dp"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="16dp"
+        app:layout_constraintTop_toBottomOf="@+id/switchAudio"
+        style="@style/switch_text"
+        android:checked="true"
+        android:onClick="toggleVibration"/>
+
+    <ToggleButton
+        android:text="@string/txtRegular"
+        android:layout_width="345dp"
+        android:layout_height="74dp"
+        android:id="@+id/toggleRegular"
+        android:layout_marginTop="8dp"
+        app:layout_constraintTop_toBottomOf="@+id/txtGameMode"
+        android:layout_marginStart="16dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginLeft="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="16dp"
+        app:layout_constraintVertical_bias="0.0"
+        android:textOn="@string/txtHard"
+        android:textOff="@string/txtRegular"
+        android:background="@drawable/brown_button"
+        style="@style/button_text"
+        android:layout_marginEnd="16dp"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginRight="16dp"
+        android:onClick="toggleDifficulty"/>
+
+    <TextView
+        android:text="@string/txtMode"
+        android:layout_width="363dp"
+        android:layout_height="31dp"
+        android:id="@+id/txtGameMode"
+        style="@style/switch_text"
+        android:layout_marginTop="8dp"
+        app:layout_constraintTop_toBottomOf="@+id/switchVibration"
+        android:layout_marginEnd="16dp"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginRight="16dp"
+        android:layout_marginStart="16dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginLeft="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="16dp"
+        app:layout_constraintHorizontal_bias="0.33"
+        app:layout_constraintVertical_bias="0.060000002" />
+
+</android.support.constraint.ConstraintLayout>

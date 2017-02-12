@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_78e9acf23818694f953cbe2acfd0360ddc5a6c08\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_0bd903dde1123fe7d5ecd4a506d5abcbf4064d60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_d1b32838c93ed05cbf04b96c27c8d54cd93d8a25\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.8.0_ce19b0f7352452ede036d6b9955e3e22db183173\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_7360f00f78344abca8149565c8734d630cb68af3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Georgi\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha9\constraint-layout-solver-1.0.0-alpha9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6a908fd0803cc5f65b007101002aec06dc7544da">
+        <dex dex="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-alpha9_fa5e3c3b4d55cf84edb4c34af102595164ad3919\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="01d6b31fda9c70bc9323ee99000b514ab09b5910">
+        <dex dex="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d8fc35879231b955aeb8bbdc6932d45ecc7e81ab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0b496137c118b8a2d5f3c0fa347ff58956699ff1">
+        <dex dex="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d00792d26dddd9c3c79623b644b8e190e6ed9d95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.8.0_38203612541f7810bc014e447b50a0bd2a7ee998\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_b69f378a04840fcde9362d766a6e188248e5aa9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_472b17c00c8e1fed2ffa4fe4765e6185809e36c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_3d0cf0b9f9ad4807315caa33135403a57f0c4b82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Georgi\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_7ba1b71bdb456e61372a216f605cc78eb31831c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_cb5e8c7f64afd3c97e6a1368ae8da604ed318da0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.8.0_69d649a818f664ef4ed92e057831751c074833ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_4a7a2419b1075aa2f5372c9bbd1463fa5ed8beec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_ac0e9f4cda5479594e2440331437a72e9fc9bf46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_27db419c72e8eab32179c1537c8578d41551afa9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_35396c4a4c5fbdd6e61e6f506b52f74281c27f94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_b62c725202a8e5120566c02f41fa94b2061c50f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_2025c89101fbb68a6d0f5b8145b799cd55fb600b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_9c6b6c83a28f659186f751a67409c508a20026b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_09e4948409a748ba344dcf4f91e8f4b517c55d7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Georgi\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.8.0_3d36f155ddaf652db79fa8286fdc91fd47ec4754\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_10828376e13c59f2ebf40d0a7eb6eedfedb36bd7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.0-alpha9\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f2b64f6a762f61a2379d6a79af03e2ee56eefe0b">
+        <dex dex="C:\Users\Georgi\AndroidStudioProjects\Grabble\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.0.0-alpha9_7f8873fce4a52b43321ce83d04d898290d26a4d2\classes.dex" />
+    </item>
+
+</items>

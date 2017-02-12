@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Grabble</string>
+
+    <!-- Main menu strings-->
+    <string name="btnGame">Play</string>
+    <string name="btnSettings">Settings</string>
+    <string name="btnHelp">Help</string>
+
+    <!-- Game menu strings-->
+    <string name="btnMaps">Map</string>
+    <string name="btnLetterbox">Letterbox</string>
+    <string name="btnStats">Stats</string>
+
+    <!-- Settings menu strings-->
+    <string name="txtSettingsHeader">Settings menu</string>
+    <string name="switchAudio">Enable Audio</string>
+    <string name="switchVib">Enable Vibration</string>
+    <string name="txtMode">Choose Game mode</string>
+    <string name="txtRegular">Regular</string>
+    <string name="txtHard">Hard</string>
+
+    <!-- Letterbox menu strings-->
+    <string name="txtDailyTask">Daily task: </string>
+    <string name="txtChooseLetters">Choose a letter</string>
+    <string name="btnFormWord">Form Word</string>
+
+    <!-- Help menu strings-->
+    <string name="txtHelpHeader">About the game</string>
+    <string name="txtHelpInfo">Welcome to Grabble!\n\n
+        Collect letters by opening the map and clicking on Letter markers you encounter.
+        When you have enough letters to form a 7 letter word, form it in the \'Letterbox\' menu.
+        Form words to gain points! Bonus points for new words!\n\n
+        Choose a difficulty mode between \'Regular\' and \'Hard\'.
+        In Regular you can collect as many letters as you want.
+        In Hard mode, you can only collect 25 letters and will either have to form a word or discard a letter.\n\n
+        To remove a letter hold down on it in the Letterbox menu.\n\n
+        Have fun!</string>
+    <string name="txtCopyright">Created by Georgi Hristov</string>
+
+    <string name="title_activity_maps">Map</string>
+
+    <string name="MY_SETTINGS_PREF">SettingsPref</string>
+    <string name="MY_MARKERS_PREF">MarkersPref</string>
+    <string name="MY_CALENDAR_PREF">CalendarPref</string>
+    <string name="MY_INVENTORY_PREF">InventoryPref</string>
+</resources>
